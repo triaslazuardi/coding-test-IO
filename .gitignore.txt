@@ -1,0 +1,40 @@
+# --- Node.js (Next.js frontend) ---
+frontend/node_modules/
+frontend/.next/
+dist/
+out/
+.env
+.env.local
+.env.*.local
+
+# --- Python (FastAPI backend) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.sqlite3
+
+# --- VSCode & OS files ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Logs & temp ---
+*.log
+*.bak
+*.tmp
+
+
+*.mp4
+*.avi
+*.zip
+*.tar.gz
+*.exe
+*.unitypackage
+
+
+*.psd
+*.ai

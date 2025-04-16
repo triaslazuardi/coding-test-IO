@@ -6,10 +6,12 @@ import json
 app = FastAPI()
 
 # Load dummy data
-with open("dummyData.json", "r") as f:
+# with open("dummyData.json", "r") as f:
+with open("../dummyData.json", "r") as f:
     DUMMY_DATA = json.load(f)
 
-@app.get("/api/data")
+# @app.get("/api/data")
+@app.get("/api/sales-reps")
 def get_data():
     """
     Returns dummy data (e.g., list of users).

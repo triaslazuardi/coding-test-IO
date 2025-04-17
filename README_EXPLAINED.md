@@ -57,7 +57,7 @@ Base Tailwind setup.
 - `DUMMY_RESPONSES`: Rotating fake AI replies
 - `ai_endpoint()`: POST request handler that simulates AI response
 
-**screenshot for get BE Dummy**
+Here’s what the Dummy BE looks like:
 ![Dashboard Preview](./assets/screenshot-4.png)
 
 

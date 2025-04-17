@@ -1,3 +1,6 @@
+# ✨ This is a submitted solution for the Sales Dashboard Fullstack Coding Challenge using Next.js and FastAPI.  
+>>>> For full explanation and code breakdown, [click here ➜ `README_EXPLAINED.md`](./README_EXPLAINED.md)
+
 # Coding Challenge: Sales Dashboard with Next.js & FastAPI
 
 ## Overview

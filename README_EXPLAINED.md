@@ -10,7 +10,7 @@ Here’s what the app looks like:
 
 ![Dashboard Preview](./assets/screenshot-4.png)
 
-📹 [Click here to watch the demo (MP4)](./assets/work1.mp4)
+📹 [Lihat Demo Video](https://youtu.be/wZiqVbrBhBE)
 
 
 ```markdown

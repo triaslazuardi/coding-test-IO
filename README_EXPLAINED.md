@@ -10,6 +10,8 @@ Here’s what the app looks like:
 
 ![Dashboard Preview](./assets/screenshot-4.png)
 
+📹 [Click here to watch the demo (MP4)](./assets/work1.mp4)
+
 
 ```markdown
 
@@ -60,7 +62,9 @@ Base Tailwind setup.
 - `ai_endpoint()`: POST request handler that simulates AI response
 
 
-
+**To run BE**
+-  .\venv\Scripts\activate
+-  uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ---
 
@@ -76,5 +80,3 @@ DUMMY_RESPONSES = [
 ]
 
 ---
-
-📹 [Click here to watch the demo (MP4)](./assets/work1.mp4)

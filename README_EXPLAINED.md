@@ -58,7 +58,7 @@ Base Tailwind setup.
 - `ai_endpoint()`: POST request handler that simulates AI response
 
 **screenshot for get BE Dummy**
- ![Dashboard Preview](./assets/screenshot-4.png)
+![Dashboard Preview](./assets/screenshot-4.png)
 
 
 ---
@@ -75,3 +75,5 @@ DUMMY_RESPONSES = [
 ]
 
 ---
+
+📹 [Click here to watch the demo (MP4)](./assets/work1.mp4)

@@ -8,6 +8,8 @@ Here’s what the app looks like:
 
 ![Dashboard Preview](./assets/screenshot-3.png)
 
+![Dashboard Preview](./assets/screenshot-4.png)
+
 
 ```markdown
 
@@ -57,8 +59,7 @@ Base Tailwind setup.
 - `DUMMY_RESPONSES`: Rotating fake AI replies
 - `ai_endpoint()`: POST request handler that simulates AI response
 
-Here’s what the Dummy BE looks like:
-![Dashboard Preview](./assets/screenshot-4.png)
+
 
 
 ---
